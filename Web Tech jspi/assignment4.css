@@ -1,0 +1,37 @@
+.a{
+    background: linear-gradient(rgba(255, 94, 0, 0.2),rgba(0, 0, 0, 0.2)), url(./assignment4/java_logo.png) no-repeat;
+    height: 250px;
+    width: 250px;
+
+}
+.b{
+    background:linear-gradient(rgba(0, 0, 255, 0.2),rgba(255, 255, 0,0.2)), url(./assignment4/python_pic.jpeg) no-repeat center;
+    height: 250px;
+    width: 250px;
+}
+.c{
+    background:radial-gradient(rgba(0, 0, 255, 0.3),rgba(255, 255, 255, 0.3)), url(./assignment4/react_logo.jpeg) no-repeat center/cover;
+    height: 250px;
+    width: 250px;
+}
+.d{
+    background: conic-gradient(rgba(255, 165, 0, 0.3),rgba(255, 255, 255, 0.3),rgba(255, 165, 0, 0.3)), url(./assignment4/Sql_logo.jpeg) no-repeat center/cover;
+    height: 250px;
+    width: 250px;
+}
+.e{
+    background: url(./assignment4/1723136636240.jpeg) no-repeat center/cover;
+    height: 350px;
+    width: 350px;
+}
+.f{
+    background:linear-gradient(rgba(0, 0, 0, 0.4),rgba(255, 255, 255,0)), url(./assignment4/1723136559156.jpeg) center/cover;
+    height: 350px;
+    width: 350px;
+    color: whitesmoke;
+
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+}

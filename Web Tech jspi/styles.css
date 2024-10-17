@@ -1,0 +1,43 @@
+.bg{
+    background-color: deeppink;
+    color: white;
+    border-radius: 50%;
+    height: 50%;
+    width: 25%;
+    padding: 100px;
+    border: none;
+    font-size: 10px;
+    font-weight: bold;
+}
+.a{
+    height: 100px;
+    width: 200px;
+    background-color: blue;
+    border: none;
+}
+.b{
+    height: 100px;
+    width: 100px; 
+    background-color: brown;
+    border: none;
+}
+.c{
+    height: 50%;
+    width: 50%;
+    border-radius: 50%;
+    padding: 50px;
+    background-color: aqua;
+    border: none;
+}
+.d{
+    background: rgba(255, 255, 255, 0);
+    border:3px solid white;
+    border-color: white;
+    color: white;
+    padding: 20px;
+    border-radius: 30px;
+
+}
+body{
+    background-image: url(./Screenshot\ 2023-10-05\ 175849.png);
+}

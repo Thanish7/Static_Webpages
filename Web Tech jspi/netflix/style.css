@@ -1,0 +1,79 @@
+body{
+    height: 100vh;
+    width: 100%;
+    background: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)), url(./netflix-background-246844-2224740-3441109.png); 
+
+}
+img{
+    width: 200px;
+    height: 100px;
+    margin: 10px 150px;
+}
+*{
+    margin: 0px;
+}
+h1, p, label, h2{
+    color: white;
+}
+h1{
+    display: flex;
+    padding: 20px 55px;
+    font-weight: bolder;
+}
+h2{
+    font-weight: lighter;
+    padding: 10px;
+}
+.signin{
+    
+}
+.a{
+    height: 500px;
+    width: 400px;
+    display: flex;
+    display: block;
+    margin: auto;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6))
+}
+input[type="text"]{
+    padding: 15px;
+    width: 250px;
+    background: linear-gradient(rgba(49, 49, 99, 0.5), rgba(52, 52, 107, 0.5));
+    border: none;
+    margin: 10px;
+    border-radius: 3px;
+}
+.red{
+    background-color: red;
+    color: white;
+    border: none;
+    width: 275px;
+    height: 35px;
+    padding: 10px;
+    border-radius: 3px;
+}
+.tran{
+    color: white;
+    font-size: large;
+    border: none;
+    width: 275px;
+    height: 35px;
+    border-radius: 3px;
+    background: linear-gradient(rgba(225, 225, 225, 0.3), rgba(225, 225, 225, 0.3));
+}
+p{
+    padding: 20px;
+}
+/* label, input[type="checkbox"]{
+    display: flexbox;
+    display: inline;
+    background-color: aqua;
+    align-items: start;
+} */
+ z{
+    display: flex;
+ }

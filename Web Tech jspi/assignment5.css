@@ -1,0 +1,22 @@
+.a{
+    border-collapse: collapse;
+    width: 50%;
+}
+.c:first-child{
+    background-color: orange;
+}
+.c:last-child{
+    background-color: green;
+}
+.b{
+    border-collapse: collapse;
+    width: 50%;
+}
+.d:nth-child(2n){
+    background-color: blue;
+}
+.b:nth-child(2n+1){
+    background-color: blanchedalmond;
+}
+
+
